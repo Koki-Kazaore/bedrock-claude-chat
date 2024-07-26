@@ -11,6 +11,7 @@ Written in Python with [FastAPI](https://fastapi.tiangolo.com/).
 cd backend
 python3 -m venv .venv  # Optional (If you don't want to install poetry on your env)
 source .venv/bin/activate  # Optional (If you don't want to install poetry on your env)
+# .venv\Scripts\activate # Optional (If you use Windows OS)
 pip install poetry
 poetry install
 ```
